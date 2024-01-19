@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Automation>
+	<Execution>
+		<TestMethod1>
+			<username>Muhammad41</username>
+			<password>Muhammad123</password>
+			
+			<contactEmail>abc@gmail.com</contactEmail>
+			<contactName>hashir</contactName>
+			<contactMessage>hello hashir</contactMessage>
+			<orderName>hashir</orderName>
+			<orderCountry>pak</orderCountry>
+			<orderCity>khi</orderCity>
+			<orderZipCode>123</orderZipCode>
+			<orderMonth>feb</orderMonth>
+			<orderYear>2024</orderYear>
+		</TestMethod1>
+
+		<TestMethod1>
+			<username>Muhammad41</username>
+			<password></password>
+
+			<contactEmail>abc@gmail.com</contactEmail>
+			<contactName>hashir</contactName>
+			<contactMessage>hello hashir</contactMessage>
+			<orderName>hashir</orderName>
+			<orderCountry>pak</orderCountry>
+			<orderCity>khi</orderCity>
+			<orderZipCode>123</orderZipCode>
+			<orderMonth>feb</orderMonth>
+			<orderYear>2024</orderYear>
+		</TestMethod1>
+
+		
+	</Execution>
+</Automation>

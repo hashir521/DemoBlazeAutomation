@@ -1,0 +1,29 @@
+﻿ //public void Signup(String userName, String pass)
+        //{
+
+        //    try
+        //    {
+        //        click(SignUpLink);
+        //        write(username, userName);
+        //        write(password, pass);
+        //        click(signUpBtn);
+
+
+
+        //        // Wait for the alert to be present
+        //        WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+        //        IAlert alert = wait.Until(ExpectedConditions.AlertIsPresent());
+
+        //        // Retrieve and print the alert text
+        //        string alertText = alert.Text;
+        //        Console.WriteLine("Alert Text: " + alertText);
+
+        //        // Handle the alert (Accept or Dismiss based on your requirement)
+        //        alert.Accept();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Console.WriteLine("Error during sign-up: " + ex.Message);
+        //        // Handle the exception as needed
+        //    }
+        //}
