@@ -23,11 +23,8 @@ namespace demoBlaze
         public static string url = "https://www.demoblaze.com/";
         By SignUpLink = By.Id("signin2");
 
-        ///Extent report var <summary>
+        ///Extent report var 
         public TestContext testContext;
-        //public static int MaxTimeToFindElement = Convert.ToInt32(ConfigurationManager.AppSettings["MaxTimeToFindElement"]);
-        //        public static string ExecutionBrowser = ConfigurationManager.AppSettings["ExecutionBrowser"].ToString();
-
         public static string pathNameWithFileNameExtension;
         public static string dirpath;
         public static ExtentReports extentReports;
@@ -84,7 +81,7 @@ namespace demoBlaze
             driver.Quit();
         }
 
-        public void write(By by, String data)
+        public void write(By by, string data)
         {
             try
             {

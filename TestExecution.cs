@@ -60,6 +60,7 @@ namespace demoBlaze
         }
 
         [TestMethod]
+      //  [TestCategory("Login")]
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Data.xml", "TestMethod1", DataAccessMethod.Sequential)]
         public void TestMethod1()
         {

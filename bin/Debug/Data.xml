@@ -2,7 +2,7 @@
 <Automation>
 	<Execution>
 		<TestMethod1>
-			<username>Muhammad41</username>
+			<username>RaoMuhammad41</username>
 			<password>Muhammad123</password>
 			
 			<contactEmail>abc@gmail.com</contactEmail>
@@ -17,7 +17,7 @@
 		</TestMethod1>
 
 		<TestMethod1>
-			<username>Muhammad41</username>
+			<username>RaoMuhammad41</username>
 			<password></password>
 
 			<contactEmail>abc@gmail.com</contactEmail>
